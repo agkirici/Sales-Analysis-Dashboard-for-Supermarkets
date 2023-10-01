@@ -16,5 +16,4 @@ The dataset can be downloaded at [supermarket sales dataset](https://www.kaggle.
 - Creating dashboard
 ### Dashboard
 ![supermarket sales dashboard](https://github.com/agkirici/Supermarket-Sales-Dashboard/assets/113633868/1bfc7e8a-c1d1-43a8-a870-98c4ef77be7a)
-### Thank You!
 
