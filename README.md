@@ -15,5 +15,6 @@ The dataset can be downloaded at [supermarket sales dataset](https://www.kaggle.
 - Analyzing data using pivot table and chart.
 - Creating dashboard
 ### Dashboard
-![Supermarket Sales Dashboard](https://github.com/agungbudiwirawan/supermarket_sales_dashboard-sales-analysis-using-pivot-table-and-chart/blob/main/image/supermarket%20sales%20dashboard.JPG)
+![supermarket sales dashboard](https://github.com/agkirici/Supermarket-Sales-Dashboard/assets/113633868/1bfc7e8a-c1d1-43a8-a870-98c4ef77be7a)
 ### Thank You!
+
