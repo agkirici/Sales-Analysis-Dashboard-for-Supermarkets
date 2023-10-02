@@ -1,4 +1,4 @@
-# Supermarket Sales Dashboard: Sales Analysis using Pivot Table and Chart
+# Sales Analysis Dashboard for Supermarkets
 ### Overview
 The objective of this project is to analyze supermarket sales using pivot table and chart in Microsoft Excel. After doing the analysis, I created an interactive dashboard that aims to make it easier for the audience to explore data.
 ### Dataset
